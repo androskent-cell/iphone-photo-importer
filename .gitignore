@@ -1,0 +1,4 @@
+# El .exe se compila con build.bat y se publica en Releases, no va dentro del código
+# The .exe is built with build.bat and published in Releases, not committed
+*.exe
+*.pdb
